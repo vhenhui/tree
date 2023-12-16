@@ -17,9 +17,9 @@ export default siteConfig({
   description: '境随心转 心想事成',
 
   // social usernames (optional)
-  twitter: '#',
-  github: '#',
-  linkedin: '#',
+  // twitter: '#',
+  // github: '#',
+  // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
